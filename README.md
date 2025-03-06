@@ -6,5 +6,5 @@ My Solutions to LeetCode Problems in Python
 
 ## String
 - [8.0 String to Integer](String/StringToInteger.py) : Basic Solution (Might be improved)
-- [8.1 String to Integer 2] (String/StringtoIntegerImproved.py) : More Compact Solution
+- [8.1 String to Integer 2](String/StringtoIntegerImproved.py) : More Compact Solution
 
