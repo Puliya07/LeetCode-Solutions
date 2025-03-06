@@ -5,5 +5,6 @@ My Solutions to LeetCode Problems in Python
 - [5.Longest Palindrome](DynamicProgramming/longestPalindrome.py) : Have two solutions with different time complexities
 
 ## String
-- [8.String to Integer](String/StringToInteger.py) : Basic Solution (Might be improved)
+- [8.0 String to Integer](String/StringToInteger.py) : Basic Solution (Might be improved)
+- [8.1 String to Integer 2] (String/StringtoIntegerImproved.py) : More Compact Solution
 
